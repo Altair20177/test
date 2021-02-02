@@ -1,0 +1,5 @@
+﻿  Interface.cpp
+  Лаба 6 ООП.cpp
+  Создание кода...
+C:\Users\artem\source\repos\Лаба 6 ООП\Лаба 6 ООП.cpp(4,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  Лаба 6 ООП.vcxproj -> C:\Users\artem\source\repos\Лаба 6 ООП\Debug\Лаба 6 ООП.exe
